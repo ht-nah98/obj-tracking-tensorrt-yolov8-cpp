@@ -1,0 +1,9 @@
+FROM: To pull the base image
+RUN: To execute commands
+CMD: To provide defaults for an executing container
+ENTRYPOINT: To configure a container that will run as an executable
+WORLDIR: To sets the working directory
+COPY: To copy a directory from your local machine to the docker container
+ADD: To copy files and folders from your local machine to the docker containers
+EXPOSE: Informs Docker that the container listens on the specified network ports at runtime
+ENV: To set environment variables
