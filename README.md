@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -141,3 +142,7 @@ If this project was helpful to you, I would appreicate if you could give it a st
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/cyrus-behroozi/
 
+=======
+# obj-tracking-tensorrt-yolov8-cpp
+YOLOv8 TensorRT C++ using for object tracking model and build docker container
+>>>>>>> origin/main
